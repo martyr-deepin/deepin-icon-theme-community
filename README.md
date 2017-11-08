@@ -4,8 +4,8 @@ In this source folder:
 * Halo Dark
 * Windows
 
-Atributions to Car, Álvaro Samudio and Alejandro Camerena
+## Description
 
+Marea, Halo Dark and Windows Comunity pack set ready for Deepin OS. Atributions to Car, Álvaro Samudio and Alejandro Camerena
 
-
-Marea, Halo Dark and Windows Comunity pack are set icons licensed under GNU Public license, version 3.0. Some application icons are trademarks of their respective owners.
+This icons are licensed under GNU Public license, version 3.0. Some application icons are trademarks of their respective owners. The Windows Comunity icons in this pack contains registered trademarks of Microsoft, although the pack is free, the icons are used for educational purposes for those looking to migrate from the operating system.
