@@ -3,6 +3,7 @@ In this source folder:
 * Marea
 * Halo
 * Halo Dark
+* MaterialW
 * Windows
 
 ## Description
