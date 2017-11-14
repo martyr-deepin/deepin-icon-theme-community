@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
+   width="51.200001"
    viewBox="0 0 13.546667 13.546667"
-   height="48"
+   height="51.200001"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="system-software-update.svg">
   <metadata
      id="metadata331">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,22 +36,26 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="1600"
+     inkscape:window-height="872"
      id="namedview329"
      showgrid="true"
-     inkscape:zoom="25.969071"
-     inkscape:cx="19.030766"
-     inkscape:cy="26.679828"
+     inkscape:zoom="12.984536"
+     inkscape:cx="21.681221"
+     inkscape:cy="25.930246"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer3"
      showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
-       id="grid3308" />
+       id="grid3308"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -123,8 +127,9 @@
     <clipPath
        id="clipPath11">
       <path
-         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 l 0,0 0,-1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 l 0,0 1.035,0 c 2.62,0 3.97,1.367 3.97,3.971 l 0,0 0,1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 l 0,0 -1.035,0 z"
-         id="path13" />
+         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 v 0 -1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 v 0 h 1.035 c 2.62,0 3.97,1.367 3.97,3.971 v 0 1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 v 0 z"
+         id="path13"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        id="1">
@@ -146,11 +151,10 @@
          x="307"
          height="42"
          width="42"
-         transform="matrix(0,1,-1,0,0,0)"
-         fill="url(#2)"
-         color="#bebebe"
+         transform="rotate(90)"
          rx="9"
-         id="rect22" />
+         id="rect22"
+         style="color:#bebebe;fill:url(#2)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -167,17 +171,16 @@
          x="433"
          height="22"
          width="22"
-         fill="url(#3)"
-         color="#bebebe"
          rx="4"
-         id="rect27" />
+         id="rect27"
+         style="color:#bebebe;fill:url(#3)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
        id="3"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
-       y1="291.43"
+       y1="291.42999"
        x2="0"
        y2="40" />
     <clipPath
@@ -187,17 +190,16 @@
          height="30"
          x="433"
          y="37"
-         fill="url(#4)"
-         color="#bebebe"
          rx="6"
-         id="rect32" />
+         id="rect32"
+         style="color:#bebebe;fill:url(#4)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
        id="4"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
-       y1="291.43"
+       y1="291.42999"
        x2="0"
        y2="40" />
     <clipPath
@@ -207,11 +209,10 @@
          height="16"
          x="304"
          y="212"
-         transform="matrix(0,1,-1,0,0,0)"
-         fill="url(#5)"
-         color="#bebebe"
+         transform="rotate(90)"
          rx="3"
-         id="rect37" />
+         id="rect37"
+         style="color:#bebebe;fill:url(#5)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -228,10 +229,9 @@
          x="34"
          height="220"
          width="220"
-         fill="url(#6)"
-         color="#bebebe"
          rx="50"
-         id="rect42" />
+         id="rect42"
+         style="color:#bebebe;fill:url(#6)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -248,10 +248,9 @@
          x="290"
          height="60"
          width="60"
-         fill="url(#7)"
-         color="#bebebe"
          rx="12.5"
-         id="rect47" />
+         id="rect47"
+         style="color:#bebebe;fill:url(#7)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -267,10 +266,9 @@
          height="88"
          x="292"
          y="32"
-         fill="url(#8)"
-         color="#bebebe"
          rx="18"
-         id="rect52" />
+         id="rect52"
+         style="color:#bebebe;fill:url(#8)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -286,19 +284,18 @@
          x="417"
          height="22"
          width="22"
-         fill="url(#9)"
-         color="#bebebe"
          rx="5"
-         id="rect57" />
+         id="rect57"
+         style="color:#bebebe;fill:url(#9)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
        id="9"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
-       y1="302.86"
+       y1="302.85999"
        x2="0"
-       y2="28.571" />
+       y2="28.570999" />
     <clipPath
        id="clipPath60">
       <rect
@@ -306,10 +303,9 @@
          height="30"
          x="417"
          y="53"
-         fill="url(#A)"
-         color="#bebebe"
          rx="7"
-         id="rect62" />
+         id="rect62"
+         style="color:#bebebe;fill:url(#A)" />
     </clipPath>
     <linearGradient
        xlink:href="#1"
@@ -318,136 +314,227 @@
        gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
        y1="299.81"
        x2="0"
-       y2="31.619" />
+       y2="31.618999" />
     <use
        id="B"
-       opacity="0.2"
-       fill="#ffffff"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="opacity:0.2;fill:#ffffff"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath66">
       <use
          xlink:href="#B"
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         id="use68" />
+         id="use68"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath70">
       <use
          xlink:href="#B"
-         id="use72" />
+         id="use72"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="C"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath75">
       <use
          xlink:href="#C"
-         id="use77" />
+         id="use77"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath79">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#C"
-         id="use81" />
+         id="use81"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="D"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath84">
       <use
          xlink:href="#D"
-         id="use86" />
+         id="use86"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath88">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#D"
-         id="use90" />
+         id="use90"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="E"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath93">
       <use
          xlink:href="#E"
-         id="use95" />
+         id="use95"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath97">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#E"
-         id="use99" />
+         id="use99"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="F"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath102">
       <use
          xlink:href="#F"
-         id="use104" />
+         id="use104"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath106">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#F"
-         id="use108" />
+         id="use108"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="G"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath111">
       <use
          xlink:href="#G"
-         id="use113" />
+         id="use113"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath115">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#G"
-         id="use117" />
+         id="use117"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="H"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath120">
       <use
          xlink:href="#H"
-         id="use122" />
+         id="use122"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath124">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#H"
-         id="use126" />
+         id="use126"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="I"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath129">
       <use
          xlink:href="#I"
-         id="use131" />
+         id="use131"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath133">
@@ -456,11 +543,10 @@
          x="307"
          height="42"
          width="42"
-         transform="matrix(0,1,-1,0,0,0)"
-         fill="url(#2)"
-         color="#bebebe"
+         transform="rotate(90)"
          rx="9"
-         id="rect135" />
+         id="rect135"
+         style="color:#bebebe;fill:url(#2)" />
     </clipPath>
     <clipPath
        id="clipPath137">
@@ -469,10 +555,9 @@
          x="433"
          height="22"
          width="22"
-         fill="url(#3)"
-         color="#bebebe"
          rx="4"
-         id="rect139" />
+         id="rect139"
+         style="color:#bebebe;fill:url(#3)" />
     </clipPath>
     <clipPath
        id="clipPath141">
@@ -481,10 +566,9 @@
          height="30"
          x="433"
          y="37"
-         fill="url(#4)"
-         color="#bebebe"
          rx="6"
-         id="rect143" />
+         id="rect143"
+         style="color:#bebebe;fill:url(#4)" />
     </clipPath>
     <clipPath
        id="clipPath145">
@@ -493,11 +577,10 @@
          height="16"
          x="304"
          y="212"
-         transform="matrix(0,1,-1,0,0,0)"
-         fill="url(#5)"
-         color="#bebebe"
+         transform="rotate(90)"
          rx="3"
-         id="rect147" />
+         id="rect147"
+         style="color:#bebebe;fill:url(#5)" />
     </clipPath>
     <clipPath
        id="clipPath149">
@@ -506,10 +589,9 @@
          x="34"
          height="220"
          width="220"
-         fill="url(#6)"
-         color="#bebebe"
          rx="50"
-         id="rect151" />
+         id="rect151"
+         style="color:#bebebe;fill:url(#6)" />
     </clipPath>
     <clipPath
        id="clipPath153">
@@ -518,10 +600,9 @@
          x="290"
          height="60"
          width="60"
-         fill="url(#7)"
-         color="#bebebe"
          rx="12.5"
-         id="rect155" />
+         id="rect155"
+         style="color:#bebebe;fill:url(#7)" />
     </clipPath>
     <clipPath
        id="clipPath157">
@@ -530,10 +611,9 @@
          height="88"
          x="292"
          y="32"
-         fill="url(#8)"
-         color="#bebebe"
          rx="18"
-         id="rect159" />
+         id="rect159"
+         style="color:#bebebe;fill:url(#8)" />
     </clipPath>
     <clipPath
        id="clipPath161">
@@ -542,10 +622,9 @@
          x="417"
          height="22"
          width="22"
-         fill="url(#9)"
-         color="#bebebe"
          rx="5"
-         id="rect163" />
+         id="rect163"
+         style="color:#bebebe;fill:url(#9)" />
     </clipPath>
     <clipPath
        id="clipPath165">
@@ -554,125 +633,201 @@
          height="30"
          x="417"
          y="53"
-         fill="url(#A)"
-         color="#bebebe"
          rx="7"
-         id="rect167" />
+         id="rect167"
+         style="color:#bebebe;fill:url(#A)" />
     </clipPath>
     <clipPath
        id="clipPath169">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#I"
-         id="use171" />
+         id="use171"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="J"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath174">
       <use
          xlink:href="#J"
-         id="use176" />
+         id="use176"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath178">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#J"
-         id="use180" />
+         id="use180"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="K"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath183">
       <use
          xlink:href="#K"
-         id="use185" />
+         id="use185"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath187">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#K"
-         id="use189" />
+         id="use189"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="L"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath192">
       <use
          xlink:href="#L"
-         id="use194" />
+         id="use194"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath196">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#L"
-         id="use198" />
+         id="use198"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="M"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath201">
       <use
          xlink:href="#M"
-         id="use203" />
+         id="use203"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath205">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#M"
-         id="use207" />
+         id="use207"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="N"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath210">
       <use
          xlink:href="#N"
-         id="use212" />
+         id="use212"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath214">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#N"
-         id="use216" />
+         id="use216"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <use
        id="O"
-       fill="none"
-       xlink:href="#U" />
+       xlink:href="#U"
+       style="fill:none"
+       x="0"
+       y="0"
+       width="100%"
+       height="100%" />
     <clipPath
        id="clipPath219">
       <use
          xlink:href="#O"
-         id="use221" />
+         id="use221"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath223">
       <use
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
          xlink:href="#O"
-         id="use225" />
+         id="use225"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
     </clipPath>
     <clipPath
        id="clipPath227">
       <path
          d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         id="path229" />
+         id="path229"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -681,7 +836,7 @@
        y1="280"
        xlink:href="#Q"
        id="P"
-       gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" />
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)" />
     <linearGradient
        id="Q">
       <stop
@@ -699,7 +854,7 @@
        y1="230"
        xlink:href="#Q"
        id="R"
-       gradientTransform="matrix(.375 0 0 .375 298 16)" />
+       gradientTransform="matrix(0.375,0,0,0.375,298,16)" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        x2="0"
@@ -707,7 +862,7 @@
        y1="230"
        xlink:href="#Q"
        id="S"
-       gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" />
+       gradientTransform="matrix(0.25,0,0,0.25,299.99999,131.99999)" />
     <clipPath
        id="clipPath239">
       <rect
@@ -716,8 +871,8 @@
          y="78"
          x="434"
          width="20"
-         color="#bebebe"
-         id="rect241" />
+         id="rect241"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath243">
@@ -727,8 +882,8 @@
          y="77"
          x="433"
          width="22"
-         color="#bebebe"
-         id="rect245" />
+         id="rect245"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath247">
@@ -738,8 +893,8 @@
          y="77"
          x="433"
          width="22"
-         color="#bebebe"
-         id="rect249" />
+         id="rect249"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath251">
@@ -749,21 +904,20 @@
          y="29"
          x="433"
          width="30"
-         color="#bebebe"
-         id="rect253" />
+         id="rect253"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath255">
       <rect
-         transform="matrix(0 -1 1 0 0 0)"
+         transform="rotate(-90)"
          height="60"
          rx="12.5"
          y="142"
          x="306"
          width="60"
-         fill="url(#S)"
-         color="#bebebe"
-         id="rect257" />
+         id="rect257"
+         style="color:#bebebe;fill:url(#S)" />
     </clipPath>
     <clipPath
        id="clipPath259">
@@ -773,9 +927,8 @@
          y="31"
          x="307"
          width="90"
-         fill="url(#R)"
-         color="#bebebe"
-         id="rect261" />
+         id="rect261"
+         style="color:#bebebe;fill:url(#R)" />
     </clipPath>
     <clipPath
        id="clipPath263">
@@ -785,10 +938,8 @@
          y="29"
          x="433"
          width="30"
-         opacity="0.2"
-         fill="#6d6d6d"
-         color="#bebebe"
-         id="rect265" />
+         id="rect265"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath267">
@@ -798,22 +949,22 @@
          y="77"
          x="433"
          width="22"
-         opacity="0.2"
-         fill="#6d6d6d"
-         color="#bebebe"
-         id="rect269" />
+         id="rect269"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath271">
       <path
          d="m 144,70 c -49.705627,0 -90,40.29437 -90,90 0,49.70563 40.294373,90 90,90 49.70563,0 90,-40.29437 90,-90 0,-49.70563 -40.29437,-90 -90,-90 z m 0,32.1875 c 32.03251,0 58,25.96748 58,58 0,32.03252 -25.96749,58 -58,58 -32.03251,0 -58,-25.96748 -58,-58 0,-32.03252 25.96749,-58 58,-58 z"
-         id="path273" />
+         id="path273"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath275">
       <path
          d="m 152,204 a 8,8 0 1 1 -16,0 8,8 0 1 1 16,0 z"
-         id="path277" />
+         id="path277"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath279">
@@ -823,20 +974,22 @@
          y="116"
          x="432"
          width="16"
-         color="#bebebe"
-         id="rect281" />
+         id="rect281"
+         style="color:#bebebe" />
     </clipPath>
     <clipPath
        id="clipPath283">
       <path
-         d="m 145,215 c 33.13708,0 60,-26.86292 60,-60 0,-33.13708 -26.86292,-60 -60,-60 -33.13708,0 -60,26.86292 -60,60 0,12.50698 3.8285,24.10633 10.375,33.71875 L 89,211 111.28125,204.625 C 120.89367,211.1715 132.49302,215 145,215 z"
-         id="path285" />
+         d="m 145,215 c 33.13708,0 60,-26.86292 60,-60 0,-33.13708 -26.86292,-60 -60,-60 -33.13708,0 -60,26.86292 -60,60 0,12.50698 3.8285,24.10633 10.375,33.71875 L 89,211 111.28125,204.625 C 120.89367,211.1715 132.49302,215 145,215 Z"
+         id="path285"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath287">
       <path
          d="m 98.03125,23.191212 c -41.492132,1.05238 -74.84375,35.06824 -74.84375,76.812498 0,42.40687 34.405632,76.8125 76.8125,76.8125 42.40687,0 76.8125,-34.40563 76.8125,-76.8125 0,-42.406866 -34.40563,-76.812498 -76.8125,-76.812498 -0.662607,0 -1.310145,-0.0167 -1.96875,0 z M 100,50.659962 c 27.24464,0 49.34375,22.099114 49.34375,49.343748 -1e-5,27.24464 -22.09911,49.34375 -49.34375,49.34375 -27.244636,-1e-5 -49.34375,-22.09911 -49.34375,-49.34375 0,-27.244634 22.099114,-49.343748 49.34375,-49.343748 z"
-         id="path289" />
+         id="path289"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath291">
@@ -846,10 +999,8 @@
          y="116"
          x="432"
          width="16"
-         opacity="0.2"
-         fill="#6d6d6d"
-         color="#bebebe"
-         id="rect293" />
+         id="rect293"
+         style="color:#bebebe;opacity:0.2;fill:#6d6d6d" />
     </clipPath>
     <clipPath
        id="clipPath295">
@@ -859,9 +1010,8 @@
          y="36"
          x="24"
          width="240"
-         fill="#986767"
-         color="#bebebe"
-         id="rect297" />
+         id="rect297"
+         style="color:#bebebe;fill:#986767" />
     </clipPath>
     <clipPath
        id="clipPath299">
@@ -872,28 +1022,28 @@
          y="223"
          x="307"
          width="42"
-         fill="url(#P)"
-         color="#bebebe"
-         id="rect301" />
+         id="rect301"
+         style="color:#bebebe;fill:url(#P)" />
     </clipPath>
     <linearGradient
        xlink:href="#0"
        id="T"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.210546,0,0,1.212299,-131.34805,-325.07347)"
-       y1="279.1"
+       y1="279.10001"
        x2="0"
-       y2="268.33" />
+       y2="268.32999" />
     <path
        id="U"
        d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-       color="#000000" />
+       inkscape:connector-curvature="0"
+       style="color:#000000" />
     <linearGradient
        xlink:href="#W"
        id="V"
-       y1="46.752"
+       y1="46.751999"
        x2="0"
-       y2="-24.433"
+       y2="-24.433001"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="W">
@@ -910,9 +1060,9 @@
        xlink:href="#W"
        id="linearGradient3312"
        gradientUnits="userSpaceOnUse"
-       y1="46.752"
+       y1="46.751999"
        x2="0"
-       y2="-24.433"
+       y2="-24.433001"
        gradientTransform="matrix(0.23630483,0,0,0.18633729,-11.350379,4.8349746)" />
     <linearGradient
        inkscape:collect="always"
@@ -1268,8 +1418,8 @@
     <linearGradient
        x2="0"
        gradientUnits="userSpaceOnUse"
-       y2="268.33"
-       y1="279.096"
+       y2="268.32999"
+       y1="279.09601"
        id="linearGradient3853"
        xlink:href="#linearGradient4460-9"
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-295.76183)" />
@@ -1285,9 +1435,9 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       y2="268.33"
+       y2="268.32999"
        x2="0"
-       y1="279.096"
+       y1="279.09601"
        gradientTransform="matrix(1.10525,0,0,1.10525,-119.34908,-309.1865)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3676"
@@ -1330,8 +1480,8 @@
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-309.3085)"
        xlink:href="#linearGradient4460-0"
        id="linearGradient3855-4"
-       y1="279.096"
-       y2="268.33"
+       y1="279.09601"
+       y2="268.32999"
        gradientUnits="userSpaceOnUse"
        x2="0" />
     <linearGradient
@@ -1340,48 +1490,39 @@
        id="linearGradient3003-5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-309.3085)"
-       y1="279.096"
+       y1="279.09601"
        x2="0"
-       y2="268.33" />
+       y2="268.32999" />
     <clipPath
        id="clipPath3511-3"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3513-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3507-9"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3509-4"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3503-4"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3505-8"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3497-7">
@@ -1397,42 +1538,33 @@
     <clipPath
        id="clipPath3492-8"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3494-0"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3488-7"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3490-4"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3484-8"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3486-2"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3478-8">
@@ -1448,42 +1580,33 @@
     <clipPath
        id="clipPath3473-3"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3475-7"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3469-7"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3471-86"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3465-6"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3467-5"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3459-5">
@@ -1499,42 +1622,33 @@
     <clipPath
        id="clipPath3454-2"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3456-2"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3450-7"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3452-7"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3446-3"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3448-6"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3440-1">
@@ -1550,42 +1664,33 @@
     <clipPath
        id="clipPath3435-0"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3437-6"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3431-2"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3433-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3427-6"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3429-9"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3421-5">
@@ -1601,42 +1706,33 @@
     <clipPath
        id="clipPath3416-5"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3418-12"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3412-8"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3414-8"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3408-26"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3410-70"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3402-4">
@@ -1661,42 +1757,33 @@
     <clipPath
        id="clipPath3397-6"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3399-2"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath4186-1"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path4188-55"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath4163-7"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path4165-8"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient4174-5">
@@ -1729,7 +1816,7 @@
          height="30"
          width="30"
          id="rect3883-9"
-         style="color:#bebebe;fill:url(#linearGradient3885-17);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3885-17);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="28.571428"
@@ -1745,7 +1832,7 @@
        id="clipPath3871-5"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3875-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3875-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3873-6"
          width="22"
          height="22"
@@ -1772,7 +1859,7 @@
          height="88"
          width="88"
          id="rect4348-9"
-         style="color:#bebebe;fill:url(#linearGradient4350-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4350-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="140"
@@ -1787,7 +1874,7 @@
        id="clipPath4187-8"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4191-58);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4191-58);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4189-7"
          width="60"
          height="60"
@@ -1809,7 +1896,7 @@
        id="clipPath3862-77"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3866-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3866-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3864-9"
          width="220"
          height="220"
@@ -1831,14 +1918,14 @@
        id="clipPath3855-7"
        clipPathUnits="userSpaceOnUse">
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
+         transform="rotate(90)"
          ry="3"
          y="212"
          x="304"
          height="16"
          width="16"
          id="rect3857-5"
-         style="color:#bebebe;fill:url(#linearGradient3859-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3859-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="40.00005"
@@ -1860,7 +1947,7 @@
          height="30"
          width="30"
          id="rect4091-6"
-         style="color:#bebebe;fill:url(#linearGradient4093-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4093-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="40.000046"
@@ -1876,7 +1963,7 @@
        id="clipPath4044-9"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4048-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4048-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4046-3"
          width="22"
          height="22"
@@ -1898,8 +1985,8 @@
        id="clipPath4891-4"
        clipPathUnits="userSpaceOnUse">
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         style="color:#bebebe;fill:url(#linearGradient4895-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="rotate(90)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4895-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4893-8"
          width="42"
          height="42"
@@ -1921,42 +2008,33 @@
     <clipPath
        id="clipPath3511-6-3"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3513-2-8"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3507-4-5"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3509-0-0"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3503-7-4"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3505-9-8"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3497-5-0">
@@ -1972,42 +2050,33 @@
     <clipPath
        id="clipPath3492-6-0"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3494-4-6"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3488-4-3"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3490-9-7"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3484-9-3"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3486-6-2"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3478-6-6">
@@ -2023,42 +2092,33 @@
     <clipPath
        id="clipPath3473-1-3"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3475-8-6"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3469-2-1"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3471-8-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3465-2-2"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3467-9-0"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3459-4-4">
@@ -2074,42 +2134,33 @@
     <clipPath
        id="clipPath3454-5-5"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3456-8-1"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3450-2-5"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3452-6-1"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3446-9-6"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3448-8-4"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3440-4-8">
@@ -2125,42 +2176,33 @@
     <clipPath
        id="clipPath3435-7-6"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3437-4-8"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3431-0-6"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3433-8-1"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3427-5-8"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3429-8-2"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3421-0-4">
@@ -2176,42 +2218,33 @@
     <clipPath
        id="clipPath3416-6-7"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3418-1-4"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3412-6-2"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3414-2-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath3408-2-8"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path3410-7-0"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3402-5-0">
@@ -2236,42 +2269,33 @@
     <clipPath
        id="clipPath3397-5-4"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3399-0-2"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath4186-5-1"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path4188-5-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z" />
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        id="clipPath4163-6-5"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
          id="path4165-0-7"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient4174-3-2">
@@ -2304,7 +2328,7 @@
          height="30"
          width="30"
          id="rect3883-4-3"
-         style="color:#bebebe;fill:url(#linearGradient3885-1-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3885-1-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="28.571428"
@@ -2320,7 +2344,7 @@
        id="clipPath3871-3-7"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3875-1-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3875-1-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3873-7-2"
          width="22"
          height="22"
@@ -2347,7 +2371,7 @@
          height="88"
          width="88"
          id="rect4348-6-4"
-         style="color:#bebebe;fill:url(#linearGradient4350-4-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4350-4-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="140"
@@ -2362,7 +2386,7 @@
        id="clipPath4187-7-6"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4191-5-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4191-5-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4189-9-2"
          width="60"
          height="60"
@@ -2384,7 +2408,7 @@
        id="clipPath3862-7-0"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3866-0-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3866-0-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3864-7-6"
          width="220"
          height="220"
@@ -2406,14 +2430,14 @@
        id="clipPath3855-1-0"
        clipPathUnits="userSpaceOnUse">
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
+         transform="rotate(90)"
          ry="3"
          y="212"
          x="304"
          height="16"
          width="16"
          id="rect3857-9-6"
-         style="color:#bebebe;fill:url(#linearGradient3859-5-2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3859-5-2);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="40.00005"
@@ -2435,7 +2459,7 @@
          height="30"
          width="30"
          id="rect4091-3-1"
-         style="color:#bebebe;fill:url(#linearGradient4093-5-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4093-5-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        y2="40.000046"
@@ -2451,7 +2475,7 @@
        id="clipPath4044-3-6"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4048-9-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4048-9-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4046-0-3"
          width="22"
          height="22"
@@ -2473,8 +2497,8 @@
        id="clipPath4891-9-5"
        clipPathUnits="userSpaceOnUse">
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
-         style="color:#bebebe;fill:url(#linearGradient4895-9-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="rotate(90)"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4895-9-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4893-6-9"
          width="42"
          height="42"
@@ -2511,7 +2535,7 @@
        x2="7.0555558"
        y2="2.54"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(11.853335,0)" />
+       gradientTransform="translate(11.853335)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5432-7"
@@ -2525,25 +2549,29 @@
        id="clipPath3936-6-8">
       <path
          id="path3938-0-9"
-         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 l 0,0 0,-1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 l 0,0 1.035,0 c 2.62,0 3.97,1.367 3.97,3.971 l 0,0 0,1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 l 0,0 -1.035,0 z" />
+         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 v 0 -1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 v 0 h 1.035 c 2.62,0 3.97,1.367 3.97,3.971 v 0 1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 v 0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3936-1">
       <path
          id="path3938-08"
-         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 l 0,0 0,-1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 l 0,0 1.035,0 c 2.62,0 3.97,1.367 3.97,3.971 l 0,0 0,1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 l 0,0 -1.035,0 z" />
+         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 v 0 -1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 v 0 h 1.035 c 2.62,0 3.97,1.367 3.97,3.971 v 0 1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 v 0 z"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3936">
       <path
-         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 l 0,0 0,-1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 l 0,0 1.035,0 c 2.62,0 3.97,1.367 3.97,3.971 l 0,0 0,1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 l 0,0 -1.035,0 z"
-         id="path3938" />
+         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 v 0 -1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 v 0 h 1.035 c 2.62,0 3.97,1.367 3.97,3.971 v 0 1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 v 0 z"
+         id="path3938"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
        id="clipPath3936-6">
       <path
-         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 l 0,0 0,-1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 l 0,0 1.035,0 c 2.62,0 3.97,1.367 3.97,3.971 l 0,0 0,1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 l 0,0 -1.035,0 z"
-         id="path3938-0" />
+         d="m 489.217,197.275 c -2.603,0 -3.953,-1.367 -3.953,-3.971 v 0 -1.034 c 0,-2.604 1.35,-3.971 3.953,-3.971 v 0 h 1.035 c 2.62,0 3.97,1.367 3.97,3.971 v 0 1.034 c 0,2.604 -1.35,3.971 -3.97,3.971 v 0 z"
+         id="path3938-0"
+         inkscape:connector-curvature="0" />
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -2555,7 +2583,7 @@
        xlink:href="#linearGradient5432"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="translate(11.853335,0)"
+       gradientTransform="translate(11.853335)"
        gradientUnits="userSpaceOnUse"
        y2="2.54"
        x2="7.0555558"
@@ -2594,8 +2622,8 @@
          height="42"
          width="42"
          id="rect4893-6"
-         style="color:#bebebe;fill:url(#linearGradient4895-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="matrix(0,1,-1,0,0,0)" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4895-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
+         transform="rotate(90)" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2617,7 +2645,7 @@
          height="22"
          width="22"
          id="rect4046-0"
-         style="color:#bebebe;fill:url(#linearGradient4048-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4048-9);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2633,7 +2661,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4089-7">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4093-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4093-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4091-3"
          width="30"
          height="30"
@@ -2655,14 +2683,14 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3855-1">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3859-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3859-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3857-9"
          width="16"
          height="16"
          x="304"
          y="212"
          ry="3"
-         transform="matrix(0,1,-1,0,0,0)" />
+         transform="rotate(90)" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2684,7 +2712,7 @@
          height="220"
          width="220"
          id="rect3864-7"
-         style="color:#bebebe;fill:url(#linearGradient3866-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3866-0);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2706,7 +2734,7 @@
          height="60"
          width="60"
          id="rect4189-9"
-         style="color:#bebebe;fill:url(#linearGradient4191-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4191-5);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2721,7 +2749,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4346-1">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4350-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4350-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4348-6"
          width="88"
          height="88"
@@ -2748,7 +2776,7 @@
          height="22"
          width="22"
          id="rect3873-7"
-         style="color:#bebebe;fill:url(#linearGradient3875-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3875-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2764,7 +2792,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3881-7">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3885-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3885-1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3883-4"
          width="30"
          height="30"
@@ -2796,42 +2824,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4163-6">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path4165-0"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4186-5">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path4188-5"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3397-5">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3399-0"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -2856,42 +2875,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3408-2">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3410-7"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3412-6">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3414-2"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3416-6">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3418-1"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3421-0">
@@ -2907,42 +2917,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3427-5">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3429-8"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3431-0">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3433-8"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3435-7">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3437-4"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3440-4">
@@ -2958,42 +2959,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3446-9">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3448-8"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3450-2">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3452-6"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3454-5">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3456-8"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3459-4">
@@ -3009,42 +3001,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3465-2">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3467-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3469-2">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3471-8"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3473-1">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3475-8"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3478-6">
@@ -3060,42 +3043,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3484-9">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3486-6"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3488-4">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3490-9"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3492-6">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3494-4"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3497-5">
@@ -3111,42 +3085,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3503-7">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3505-9"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3507-4">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3509-0"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3511-6">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3513-2"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="outerBackgroundGradient">
@@ -3169,8 +3134,8 @@
          height="42"
          width="42"
          id="rect4893"
-         style="color:#bebebe;fill:url(#linearGradient4895);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         transform="matrix(0,1,-1,0,0,0)" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4895);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
+         transform="rotate(90)" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3192,7 +3157,7 @@
          height="22"
          width="22"
          id="rect4046"
-         style="color:#bebebe;fill:url(#linearGradient4048);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4048);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3208,7 +3173,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4089">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4093);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4093);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4091"
          width="30"
          height="30"
@@ -3230,14 +3195,14 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3855">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3859);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3859);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3857"
          width="16"
          height="16"
          x="304"
          y="212"
          ry="3"
-         transform="matrix(0,1,-1,0,0,0)" />
+         transform="rotate(90)" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3259,7 +3224,7 @@
          height="220"
          width="220"
          id="rect3864"
-         style="color:#bebebe;fill:url(#linearGradient3866);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3866);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3281,7 +3246,7 @@
          height="60"
          width="60"
          id="rect4189"
-         style="color:#bebebe;fill:url(#linearGradient4191);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4191);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3296,7 +3261,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath4346">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient4350);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4350);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect4348"
          width="88"
          height="88"
@@ -3323,7 +3288,7 @@
          height="22"
          width="22"
          id="rect3873"
-         style="color:#bebebe;fill:url(#linearGradient3875);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3875);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3339,7 +3304,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath3881">
       <rect
-         style="color:#bebebe;fill:url(#linearGradient3885);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3885);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;marker:none;enable-background:accumulate"
          id="rect3883"
          width="30"
          height="30"
@@ -3371,42 +3336,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4163">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path4165"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4186">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path4188"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3397">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3399"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        inkscape:collect="always"
@@ -3431,42 +3387,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3408">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3410"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3412">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3414"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3416">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3418"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3421">
@@ -3482,42 +3429,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3427">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3429"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3431">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3433"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3435">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3437"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3440">
@@ -3533,42 +3471,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3446">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3448"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3450">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3452"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3454">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3456"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3459">
@@ -3584,42 +3513,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3465">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3467"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3469">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3471"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3473">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3475"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3478">
@@ -3635,42 +3555,33 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3484">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3486"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3488">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3490"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3492">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3494"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
        id="linearGradient3497">
@@ -3686,47 +3597,38 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3503">
-      <path
-         sodipodi:type="arc"
-         style="opacity:0.2;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+      <circle
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
          id="path3505"
-         sodipodi:cx="286"
-         sodipodi:cy="26"
-         sodipodi:rx="10"
-         sodipodi:ry="10"
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         transform="matrix(8,0,0,8,-2141.5757,-54.424243)" />
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3507">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3509"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3511">
-      <path
-         d="m 296,26 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
-         sodipodi:ry="10"
-         sodipodi:rx="10"
-         sodipodi:cy="26"
-         sodipodi:cx="286"
+      <circle
          id="path3513"
-         style="color:#000000;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient4190);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+         cx="286"
+         cy="26"
+         r="10" />
     </clipPath>
     <linearGradient
-       y2="268.33"
+       y2="268.32999"
        x2="0"
-       y1="279.096"
+       y1="279.09601"
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-309.3085)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3003"
@@ -3735,8 +3637,8 @@
     <linearGradient
        x2="0"
        gradientUnits="userSpaceOnUse"
-       y2="268.33"
-       y1="279.096"
+       y2="268.32999"
+       y1="279.09601"
        id="linearGradient3855"
        xlink:href="#linearGradient4460-85"
        gradientTransform="matrix(1.10525,0,0,1.10525,-134.27874,-309.3085)" />
@@ -3779,15 +3681,15 @@
        id="linearGradient4085"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1052689,0,0,1.1052689,-147.82739,-309.31401)"
-       y1="279.096"
+       y1="279.09601"
        x2="0"
-       y2="268.33" />
+       y2="268.32999" />
     <linearGradient
        id="linearGradient3764"
        x1="1"
        x2="47"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+       gradientTransform="rotate(-90,23.999998,24)">
       <stop
          stop-color="#44b8b1"
          stop-opacity="1"
@@ -3826,8 +3728,8 @@
       <path
          inkscape:connector-curvature="0"
          id="path3675"
-         d="m -23.802881,-2.6326495 0,21.6057615 21.6057616,0 0,-21.6057615 -21.6057616,0 z M -13,-0.66848934 l 2.27106,2.85417024 3.5907302,-0.7365601 -0.09207,3.6828003 3.1917603,1.7186402 -2.4245102,2.7621002 1.3503601,3.3759005 -3.6214203,0.55242 -1.1355301,3.46797 -3.13038,-1.90278 -3.130381,1.90278 -1.13553,-3.46797 -3.62142,-0.55242 1.35036,-3.3759005 -2.42451,-2.7621002 3.19176,-1.7186402 -0.09207,-3.6828003 3.590731,0.7365601 L -13,-0.66848934 z"
-         style="fill:#ff00ff;fill-opacity:1;stroke:none;display:inline" />
+         d="M -23.802881,-2.6326495 V 18.973112 H -2.1971194 V -2.6326495 Z M -13,-0.66848934 l 2.27106,2.85417024 3.5907302,-0.7365601 -0.09207,3.6828003 3.1917603,1.7186402 -2.4245102,2.7621002 1.3503601,3.3759005 -3.6214203,0.55242 -1.1355301,3.46797 -3.13038,-1.90278 -3.130381,1.90278 -1.13553,-3.46797 -3.62142,-0.55242 1.35036,-3.3759005 -2.42451,-2.7621002 3.19176,-1.7186402 -0.09207,-3.6828003 3.590731,0.7365601 z"
+         style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:none" />
     </clipPath>
     <linearGradient
        y2="17.008953"
@@ -3912,13 +3814,13 @@
        inkscape:collect="always" />
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_x="0 : 0.49999999 : 1"
+       inkscape:vp_y="0 : 999.99999 : 0"
+       inkscape:vp_z="0.99999999 : 0.49999999 : 1"
+       inkscape:persp3d-origin="0.49999999 : 0.33333332 : 1"
        id="perspective4374" />
     <linearGradient
-       gradientTransform="translate(-1,0)"
+       gradientTransform="translate(-1)"
        y2="7.96875"
        x2="11.984375"
        y1="20"
@@ -3932,7 +3834,7 @@
        x2="14"
        y1="4.5"
        x1="9"
-       gradientTransform="matrix(0,-1,1,0,7,16)"
+       gradientTransform="rotate(-90,11.5,4.5)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3287"
        xlink:href="#linearGradient4081"
@@ -3942,7 +3844,7 @@
        x2="14"
        y1="4.5"
        x1="9"
-       gradientTransform="matrix(0,-1,1,0,7,16)"
+       gradientTransform="rotate(-90,11.5,4.5)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3280"
        xlink:href="#linearGradient4081"
@@ -3957,7 +3859,7 @@
        xlink:href="#linearGradient4081"
        inkscape:collect="always" />
     <linearGradient
-       gradientTransform="matrix(0,-1,1,0,6,16)"
+       gradientTransform="rotate(-90,11,5)"
        gradientUnits="userSpaceOnUse"
        y2="4.5"
        x2="14"
@@ -3971,7 +3873,7 @@
        x2="10.50519"
        y1="15.28125"
        x1="10.50519"
-       gradientTransform="translate(-39,0)"
+       gradientTransform="translate(-39)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3542"
        xlink:href="#linearGradient4081"
@@ -3981,7 +3883,7 @@
        x2="14.524625"
        y1="17.41902"
        x1="14.524625"
-       gradientTransform="translate(-39,0)"
+       gradientTransform="translate(-39)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3540"
        xlink:href="#linearGradient4081"
@@ -3991,7 +3893,7 @@
        x2="16.5"
        y1="19.542921"
        x1="16.5"
-       gradientTransform="translate(-39,0)"
+       gradientTransform="translate(-39)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3538"
        xlink:href="#linearGradient4081"
@@ -4001,7 +3903,7 @@
        x2="6.8391123"
        y1="16.300354"
        x1="6.8391123"
-       gradientTransform="translate(-39,0)"
+       gradientTransform="translate(-39)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3527"
        xlink:href="#linearGradient4081"
@@ -4019,9 +3921,9 @@
     </linearGradient>
     <inkscape:perspective
        id="perspective29"
-       inkscape:persp3d-origin="11 : 7.3333333 : 1"
+       inkscape:persp3d-origin="11 : 7.3333332 : 1"
        inkscape:vp_z="22 : 11 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_y="0 : 999.99999 : 0"
        inkscape:vp_x="0 : 11 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
@@ -4032,46 +3934,43 @@
      sodipodi:insensitive="true">
     <path
        style="opacity:0.05;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 25,2 C 12.297451,2 2,12.297451 2,25 2,31.367153 4.6007106,37.116628 8.78125,41.28125 12.865755,44.99361 18.29568,47.25 24.25,47.25 c 12.702549,0 23,-10.297451 23,-23 0,-5.95432 -2.25639,-11.384245 -5.96875,-15.46875 C 37.116628,4.6007105 31.367153,2 25,2 z M 41.28125,8.78125 C 45.135604,12.894061 47.5,18.418655 47.5,24.5 c 0,12.702549 -10.297451,23 -23,23 C 18.418655,47.5 12.894061,45.135604 8.78125,41.28125 12.940939,45.4251 18.664604,48 25,48 37.702549,48 48,37.702549 48,25 48,18.664604 45.4251,12.940939 41.28125,8.78125 z"
-       transform="scale(0.28222223,0.28222223)"
+       d="M 25,2 C 12.297451,2 2,12.297451 2,25 2,31.367153 4.6007106,37.116628 8.78125,41.28125 12.865755,44.99361 18.29568,47.25 24.25,47.25 c 12.702549,0 23,-10.297451 23,-23 0,-5.95432 -2.25639,-11.384245 -5.96875,-15.46875 C 37.116628,4.6007105 31.367153,2 25,2 Z M 41.28125,8.78125 C 45.135604,12.894061 47.5,18.418655 47.5,24.5 c 0,12.702549 -10.297451,23 -23,23 C 18.418655,47.5 12.894061,45.135604 8.78125,41.28125 12.940939,45.4251 18.664604,48 25,48 37.702549,48 48,37.702549 48,25 48,18.664604 45.4251,12.940939 41.28125,8.78125 Z"
+       transform="scale(0.28222223)"
        id="path3978"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
        d="M 41.28125,8.78125 C 44.99361,12.865755 47.25,18.29568 47.25,24.25 c 0,12.702549 -10.297451,23 -23,23 -5.95432,0 -11.384245,-2.25639 -15.46875,-5.96875 C 12.894061,45.135604 18.418655,47.5 24.5,47.5 c 12.702549,0 23,-10.297451 23,-23 0,-6.081345 -2.364396,-11.605939 -6.21875,-15.71875 z"
-       transform="scale(0.28222223,0.28222223)"
+       transform="scale(0.28222223)"
        id="path3976"
        inkscape:connector-curvature="0" />
-    <path
+    <ellipse
        transform="matrix(4.3274074,0,0,3.2455556,117.19278,-35.348334)"
-       d="m -24,13 a 1.5,2 0 1 1 -3,0 1.5,2 0 1 1 3,0 z"
-       sodipodi:ry="2"
-       sodipodi:rx="1.5"
-       sodipodi:cy="13"
-       sodipodi:cx="-25.5"
        id="path3952"
        style="opacity:0.2;fill:#000000;fill-opacity:1;stroke:none"
-       sodipodi:type="arc" />
+       cx="-25.5"
+       cy="13"
+       rx="1.5"
+       ry="2" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Base">
-    <path
-       sodipodi:type="arc"
-       style="fill:url(#linearGradient4033);fill-opacity:1.0;stroke:none"
+    <ellipse
+       style="fill:url(#linearGradient4033);fill-opacity:1;stroke:none"
        id="path3942"
-       sodipodi:cx="-25.5"
-       sodipodi:cy="13"
-       sodipodi:rx="1.5"
-       sodipodi:ry="2"
-       d="m -24,13 a 1.5,2 0 1 1 -3,0 1.5,2 0 1 1 3,0 z"
-       transform="matrix(0,-4.3274075,-3.2455556,0,48.965552,-103.57556)" />
+       transform="matrix(0,-4.3274075,-3.2455556,0,48.965552,-103.57556)"
+       cx="-25.5"
+       cy="13"
+       rx="1.5"
+       ry="2" />
     <path
        style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
-       d="M 40.03125 7.53125 C 43.74361 11.615755 46 17.04568 46 23 C 46 35.702549 35.702549 46 23 46 C 17.04568 46 11.615755 43.74361 7.53125 40.03125 C 11.709416 44.322508 17.537578 47 24 47 C 36.702549 47 47 36.702549 47 24 C 47 17.537578 44.322508 11.709416 40.03125 7.53125 z "
+       d="M 40.03125,7.53125 C 43.74361,11.615755 46,17.04568 46,23 46,35.702549 35.702549,46 23,46 17.04568,46 11.615755,43.74361 7.53125,40.03125 11.709416,44.322508 17.537578,47 24,47 36.702549,47 47,36.702549 47,24 47,17.537578 44.322508,11.709416 40.03125,7.53125 Z"
        id="path4027"
-       transform="scale(0.28222223,0.28222223)" />
+       transform="scale(0.28222223)"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -4113,7 +4012,7 @@
        style="fill:#48cf8e;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0"
        id="path57"
-       d="m 5.6444451,9.3133336 2.2577779,0 0,-2.8222227 1.2699994,3e-7 -2.3988883,-2.3988889 -2.328334,2.3988889 1.199445,-3e-7"
+       d="M 5.6444451,9.3133336 H 7.902223 V 6.4911109 l 1.2699994,3e-7 -2.3988883,-2.3988889 -2.328334,2.3988889 1.199445,-3e-7"
        sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>

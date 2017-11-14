@@ -5,17 +5,18 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="48px"
    height="48px"
    viewBox="0 0 48 48"
    version="1.1"
-   id="svg2"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="deepin-launcher.svg">
+   id="svg21"
+   sodipodi:docname="deepin-launcher.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
   <metadata
-     id="metadata40">
+     id="metadata25">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -36,97 +37,73 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
      inkscape:window-height="740"
-     id="namedview38"
+     id="namedview23"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="80.417979"
-     inkscape:cy="24"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="18.70246"
+     inkscape:cy="19.906023"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+     inkscape:current-layer="svg21" />
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title4">启动器－2</title>
+     id="title2">deepin-launcher</title>
   <desc
-     id="desc6">Created with Sketch.</desc>
+     id="desc4">Created with Sketch.</desc>
+  <path
+     inkscape:connector-curvature="0"
+     id="path31"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.00968122"
+     d="m 23.999998,0.85213195 c 12.839222,0 23.24664,10.38596305 23.24664,23.19871705 0,12.81275 -10.407418,23.198714 -23.24664,23.198714 -12.839217,0 -23.24663577,-10.385964 -23.24663577,-23.198714 0,-12.812754 10.40741877,-23.19871705 23.24663577,-23.19871705 z" />
   <defs
-     id="defs8">
-    <filter
-       x="-50%"
-       y="-50%"
-       width="200%"
-       height="200%"
-       filterUnits="objectBoundingBox"
-       id="filter-1">
-      <feOffset
-         dx="0"
-         dy="1"
-         in="SourceAlpha"
-         result="shadowOffsetOuter1"
-         id="feOffset11" />
-      <feGaussianBlur
-         stdDeviation="0.5"
-         in="shadowOffsetOuter1"
-         result="shadowBlurOuter1"
-         id="feGaussianBlur13" />
-      <feColorMatrix
-         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0"
-         type="matrix"
-         in="shadowBlurOuter1"
-         result="shadowMatrixOuter1"
-         id="feColorMatrix15" />
-      <feMerge
-         id="feMerge17">
-        <feMergeNode
-           in="shadowMatrixOuter1"
-           id="feMergeNode19" />
-        <feMergeNode
-           in="SourceGraphic"
-           id="feMergeNode21" />
-      </feMerge>
-    </filter>
+     id="defs11">
     <linearGradient
-       x1="21"
-       y1="-4.935409"
-       x2="21"
-       y2="40"
-       id="linearGradient-2"
-       gradientUnits="userSpaceOnUse">
+       x1="24"
+       y1="4.9488816"
+       x2="24"
+       y2="43.814733"
+       id="linearGradient-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0198969,0,0,1.0221077,-0.52837143,-0.55268968)">
       <stop
-         stop-color="#9228C8"
+         stop-color="#2CCAFF"
          offset="0%"
-         id="stop24" />
+         id="stop6" />
       <stop
-         stop-color="#5418F3"
+         stop-color="#218AFF"
          offset="100%"
-         id="stop26" />
+         id="stop8" />
     </linearGradient>
   </defs>
-  <circle
-     id="Oval-183"
-     cx="21"
-     cy="21"
-     r="21"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-1)"
-     transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,52.686533,16.313467)" />
-  <circle
-     id="circle33"
-     cx="21"
-     cy="21"
-     r="19"
-     style="fill:#63bae9;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-1);fill-opacity:1"
-     transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,52.686533,16.313467)" />
-  <path
-     d="m 15.0625,17.459375 c 0,-1.938363 0.292717,-3.780307 0.755108,-5.442708 l 10.364784,0 c 0.462391,1.662401 0.755108,3.504345 0.755108,5.442708 0,1.038776 -0.05269,2.11049 -0.152393,3.172335 1.123625,0.307142 4.052872,1.327853 3.682795,3.548319 -0.504697,3.028187 -3.068863,5.5843 -3.068863,5.5843 0,0 -0.103924,0.205795 -0.400257,0.252267 -0.379229,0.05916 -0.245913,-0.151251 -0.245913,-0.151251 0,0 0.483168,-1.274053 0.887783,-3.166138 0.18771,-0.877857 -0.790794,-1.279781 -1.611841,-1.461246 C 25.679329,26.66315 25.008142,28.074827 24.5,29 l -7,0 c -0.508142,-0.925173 -1.179329,-2.33685 -1.528811,-3.762039 -0.821047,0.181465 -1.799551,0.583389 -1.611841,1.461246 0.404615,1.892085 0.887783,3.166138 0.887783,3.166138 0,0 0.133316,0.210408 -0.245913,0.151251 -0.296333,-0.04647 -0.400257,-0.252267 -0.400257,-0.252267 0,0 -2.564166,-2.556113 -3.068863,-5.5843 -0.370077,-2.220466 2.55917,-3.241177 3.682795,-3.548319 C 15.115193,19.569865 15.0625,18.498151 15.0625,17.459375 Z M 25.880825,11.027083 C 24.510891,6.8979219 22.160271,4.0999999 21,4.0999999 c -1.160271,0 -3.510891,2.797922 -4.880825,6.9270831 l 9.76165,0 0,0 0,0 z"
-     id="Combined-Shape"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-1)"
-     transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,52.68653,16.313467)" />
-  <path
-     d="m 23,31 1,0 c -1e-6,3.667045 1.5,6 5,6 2,0 4.5,-1.5 6,-3 0.08161,-0.451916 -2.997654,7 -13.998827,7 C 10,41 6.9207376,33.548084 7.0023463,34 c 1.5,1.5 3.9999997,3 5.9999997,3 3.5,0 5.000001,-2.332955 5,-6 l 1,0 c 0,1.72e-4 0,2.943617 1.998827,4.499144 C 23,33.943617 23,31.000172 23,31 Z"
-     id="path36"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1;filter:url(#filter-1)"
-     transform="matrix(-0.8660254,-0.5,-0.5,0.8660254,52.68653,16.313467)" />
+  <image
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Bitmap"
+     x="0.49152547"
+     y="1.4915258"
+     width="46.915257"
+     height="47.016953"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAABGdBTUEAA1teXP8meAAABEBJREFUaAXNmb1S20AQx21k8xGwwQ4MM5Dw0dAANQUNlDBDySvwHPBk1NQ8AAwlTMaEkABxsPP/HbeKLARGMca3M8utpLvb363WK+koFnqXop/CWg6TNsdt/ngx21o7n6uNcvX+1xkwdMhrtLq6Gi0sLBT39vaGpIXj4+PC4eFhoShZWVlx/er1enR1dYWN2OKsfTrbp78GzILLgh0WXKndbkd5lDGMZQ4pc9m8Mt9fmDwGzgP6Wt+MBbwbOcDcXhel1yB6ueYXUPK+8NmTGPTw/v7+cC9gbxmLD9GiBOq/4RlIaoz8Tx6/BTSrD77w6X2/CP/SBc679NDkf2R/uKgYsQB8t6TPSqeVpiQY0Gjp4OCAQQMR7xt44+nKwWI+JKezUiV5LpXzHeCsJiku0ktLS9HZ2VkzeWFQ9vLycvn8/PxR/kmbOGWS4Ngu2lr170GBZvlVvlNpYIrzPZ3jkaIdryprkkGc80xUuFgs4hbtEUX7Ib4akKGoUyJhc1FPRjyam5sLCLUTxbPFUTdwIl7a3NwcSM3uRMw+8mxWHuMayQLGlCZ32cPCOKt0GRMJjC2LeDQ7OxvcjzIdLs/o0gVw0iSSBA/uGQEvWsSHFhcXgwf3jI7ZwItTU1MDey9Jp8RLx57RlXBLlaGNjQ0eq0GLZ3TMccSDJu6EiyPuTp+cnMTFvbNfOEdJRot4+/LyMnhwz+iKCOAYrYuLC1tEOCFOkXjGjneVdrPZ5HEatHhGF3ESnUjz5jWuR34jZHI98mvi+yl9sFRxpXB3dzfYqCfYYG0TcYv6hAp8sdFo/NC54KRWq1Wur69Jk1tpy9VEGUR+VDqhdPmmNjhRmnwWFND30vjtkJXwLv6oHdUJtUGJZ+r4YE6WQC48KFU+hUR9dHRE+sLEZ5v7LcJnqWI2276VarXa/i7h5KBlUnJzcwMnvz22TFw5TEYcRlZ0r44ja2trfG0MVGCARRDkdRztLChWRtQnpfM7Ozt89efatH+v/viGwbPAlMwOHT4X7gIbMHXp/Efu1Nqi/Y4t0DDYtrPM14WVWXmclv1la2tr1Cbtd4svfErxjQ1L12irjxM68rZInjPBgv5jQI3va9rgA1/eJ77d96XaXGLwrJpb9rVSqUz3I3WYk7nx4X3h81XobreA6yjvMERgXFqmQunxeyO7Z9FrRlWVt6qJKHW8QLFvYjuzrvTp+Jmky2G6AwPtqfpLNrX9Vo7G9QieV72vbW9v84vPJYxhLHMwlwbfSpkbH12h1eftSe/7slBuIb90yhW3FJuX+zvdiebMzMyjtLm+vg5A4fT0tKR/ypalkSBZJHeOedg2pj7zRMSmTruPBLVdpVuqpCew/rYAUggYUxaFct36cscAAgwlJUxZnAHLfHoqYnQTm7xbv/R1G0eLpoGzwNMLsDRkbuxcYgC5BqU62xzWcjlpc5wEM9tarueWv5TSKqyPZxRtAAAAAElFTkSuQmCC" />
+  <ellipse
+     id="Oval-37"
+     cx="23.949154"
+     cy="23.977896"
+     style="fill:url(#linearGradient-1);fill-rule:evenodd;stroke:none;stroke-width:1.0210017"
+     rx="21.417835"
+     ry="21.464262" />
+  <g
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Group"
+     transform="matrix(1.0198969,0,0,1.0221077,14.994725,15.28876)">
+    <path
+       d="M 18,0 V 8 H 10 V 0 Z M 8,10 v 8 H 0 v -8 z"
+       id="Combined-Shape"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-rule:nonzero" />
+    <path
+       d="m 0.5,0.5 h 7 v 7 h -7 z m 10,10 h 7 v 7 h -7 z"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="stroke:#ffffff" />
+  </g>
 </svg>

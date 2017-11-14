@@ -10,10 +10,10 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    width="100%"
    height="100%"
-   sodipodi:docname="gnome-sound-recorder.svg">
+   sodipodi:docname="gnome-sound-recorder (Copiar).svg">
   <metadata
      id="metadata63">
     <rdf:RDF>
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:window-height="686"
      id="namedview61"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.40678"
-     inkscape:cy="23.491525"
+     inkscape:cx="-9.9661012"
+     inkscape:cy="23.084745"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -102,63 +102,23 @@
        id="path27" />
   </g>
   <g
-     id="g29">
+     id="g29"
+     style="fill:#e23c3c;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:url(#linearGradient3764);fill-opacity:1"
+       style="fill:#e23c3c;fill-opacity:1"
        id="path31" />
   </g>
-  <g
-     id="g33">
-    <g
-       style="clip-path:url(#clipPath-934908849)"
-       id="g35"
-       clip-path="url(#clipPath-934908849)">
-      <g
-         transform="translate(1,1)"
-         id="g37">
-        <g
-           style="opacity:0.1"
-           id="g39">
-          <!-- color: #474747 -->
-          <g
-             id="g41">
-            <path
-               d="m 9 24.01 l 0 -0.004 c 0 -8.281 6.715 -14.996 15 -14.996 l 0.004 0 c 8.281 0 14.996 6.715 14.996 14.996 l 0 0.004 c 0 8.285 -6.715 15 -14.996 15 l -0.004 0 c -8.285 0 -15 -6.715 -15 -15 m 0 0"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"
-               id="path43" />
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
-  <g
-     id="g45"
-     transform="matrix(1.277966,0,0,1.2711863,-6.5694916,-6.5111865)">
-    <g
-       id="g47"
-       clip-path="url(#clipPath-942748752)">
-      <!-- color: #474747 -->
-      <g
-         id="g49">
-        <path
-           d="M 9,24.01 9,24.006 C 9,15.725 15.715,9.01 24,9.01 l 0.004,0 C 32.285,9.01 39,15.725 39,24.006 l 0,0.004 c 0,8.285 -6.715,15 -14.996,15 l -0.004,0 c -8.285,0 -15,-6.715 -15,-15 m 0,0"
-           style="fill:#e33d3d;fill-opacity:1;fill-rule:evenodd;stroke:none"
-           id="path51"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 24,15 c 2.207,0 4,1.789 4,4 l 0,5.996 c 0,2.211 -1.793,4 -4,4 -2.211,0 -4,-1.793 -4,-4 L 20,19 c 0,-2.211 1.789,-4 4,-4 m 0,0"
-           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path53"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 17,24 c 0,0 0,7.332 6,7.313 l 0,1.688 -2,0 0,1.672 6,0 0,-1.672 -2,0 0,-1.688 C 31,31.368 31,24 31,24 l -1.414,0 c 0,0 0,5.992 -5.594,5.992 C 18.398,29.992 18.398,24 18.398,24 M 17,24"
-           style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path55"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="path53"
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 23.999997,12.149829 c 2.980786,0 5.402421,2.348134 5.402421,5.250161 l 0,7.869992 c 0,2.902027 -2.421635,5.250162 -5.402421,5.250162 -2.986187,0 -5.40242,-2.353385 -5.40242,-5.250162 l 0,-7.869992 c 0,-2.902027 2.416233,-5.250161 5.40242,-5.250161 m 0,0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path55"
+     style="fill:#f9f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 14.545761,23.962692 c 0,0 0,9.623546 8.103631,9.598608 l 0,2.215568 -2.70121,0 0,2.194568 8.103631,0 0,-2.194568 -2.70121,0 0,-2.215568 c 8.103631,0.0722 8.103631,-9.598608 8.103631,-9.598608 l -1.909756,0 c 0,0 0,7.864742 -7.555285,7.864742 -7.555285,0 -7.555285,-7.864742 -7.555285,-7.864742 m -1.888147,0" />
   <g
      id="g57">
     <path

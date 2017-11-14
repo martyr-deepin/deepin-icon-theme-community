@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="audacity.svg"
    width="100%"
    height="100%">
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:window-height="740"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="-9.5593219"
+     inkscape:cy="23.186441"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -105,7 +105,7 @@
   </g>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#388fad;fill-opacity:1"
+     style="fill:#228fad;fill-opacity:1"
      id="path31"
      d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" />
   <g

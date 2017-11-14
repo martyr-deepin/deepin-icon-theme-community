@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.92.0 r15299"
    width="100%"
    height="100%"
    sodipodi:docname="network-workgroup.svg">
@@ -34,17 +34,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:window-width="1600"
+     inkscape:window-height="872"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-10.983051"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g51" />
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
@@ -103,16 +103,11 @@
        opacity="0.2"
        id="path27" />
   </g>
-  <g
-     id="g29"
-     style="fill-opacity:1;fill:#dc8eed">
-    <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       id="path31"
-       fill-opacity="1"
-       fill="url(#linearGradient3764)"
-       style="fill-opacity:1;fill:#dc8eed" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#be74ed;fill-opacity:1"
+     id="path31"
+     d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" />
   <g
      id="g33" />
   <g
@@ -130,12 +125,12 @@
           <g
              id="g43">
             <path
-               d="m 38,30 -7.5,8 -7.5,-8 4,0 0,-12 7,0 0,12 m 4,0"
+               d="M 38,30 30.5,38 23,30 h 4 V 18 h 7 v 12 m 4,0"
                id="path45"
                inkscape:connector-curvature="0"
                style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
             <path
-               d="m 25,18 -7.5,-8 -7.5,8 4,0 0,12 7,0 0,-12 m 4,0"
+               d="M 25,18 17.5,10 10,18 h 4 v 12 h 7 V 18 m 4,0"
                id="path47"
                inkscape:connector-curvature="0"
                style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
@@ -149,12 +144,12 @@
      clip-path="url(#clipPath-697745218)">
     <!-- color: #e1d0d6 -->
     <path
-       d="m 38,30 -7.5,8 -7.5,-8 4,0 0,-12 7,0 0,12 m 4,0"
+       d="M 38,30 30.5,38 23,30 h 4 V 18 h 7 v 12 m 4,0"
        id="path55"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
     <path
-       d="m 25,18 -7.5,-8 -7.5,8 4,0 0,12 7,0 0,-12 m 4,0"
+       d="M 25,18 17.5,10 10,18 h 4 v 12 h 7 V 18 m 4,0"
        id="path57"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none" />
