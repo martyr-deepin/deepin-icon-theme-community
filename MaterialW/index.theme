@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Material W
-Comment=Material Design Inspired Product Icons
-Inherits=inspiration from the icons in Windows OS and Google's Material Design
+Comment=Material Design Inspired Product Icons. inspiration from the icons in Windows OS and Google's Material Design
+Inherits=Papirus
 
 Example=x-directory-normal
 
