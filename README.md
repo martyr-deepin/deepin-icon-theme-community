@@ -1,6 +1,7 @@
 # Deepin icon theme for community
 This folder contains the source code of the icons sets mentioned and ready to use in Deepin:
 
+* Cartoon
 * Halo
 * Halo Dark
 * Marea
