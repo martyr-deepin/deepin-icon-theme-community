@@ -4,7 +4,7 @@ This folder contains the source code of the icons sets mentioned and ready to us
 * Cartoon
 * Halo
 * Halo Dark
-* Marea
+
 * MaterialW
 * Win10
 
@@ -12,7 +12,6 @@ This folder contains the source code of the icons sets mentioned and ready to us
 Icon sets are focused on usage and experience. Most of them were made by amateurs and we explain below:
 
 * [Halo](https://github.com/deepin-espanol/Halo-icons): Halo (not to be confused with a character from a game franchise), adapts the style of MacOS. Inspired by Keefer Rourke's work, La Capitane.
-* [Marea](https://github.com/deepin-espanol/Marea): Initially used for Cinnamon, Tide uses a circular, simple and fresh interface to each icon.
 * [MaterialW](https://github.com/alvarosamudio/MaterialW-Icons-Theme): Google's Material Design and Moderna UI in this pack.
 * Win10: To encourage the migration from Windows to Deepin, using the original icons (non-profit used).
 
