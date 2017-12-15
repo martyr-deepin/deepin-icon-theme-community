@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24px"
+   height="24px"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="emblem-symbolic-link.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-7.1501312"
+     inkscape:cy="11.38983"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">脚标-链接</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient5952"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5950" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5975"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#394050;stop-opacity:1;"
+         offset="0"
+         id="stop5973" />
+    </linearGradient>
+  </defs>
+  <g
+     id="Page-1"
+     style="fill:#3765a0;fill-opacity:1;fill-rule:evenodd;stroke:#3765a0;stroke-width:1.00019968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(1.2645788,0.02065482,-0.02065482,1.2645788,-1.1125215,-2.6232446)">
+    <g
+       id="脚标-链接"
+       style="fill:#3765a0;fill-opacity:1;stroke:#3765a0;stroke-width:1.00019968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(-45.267486,10.556371,12.712831)">
+      <g
+         id="Group"
+         transform="translate(2,1)"
+         style="fill:#3765a0;fill-opacity:1;stroke:#3765a0;stroke-width:1.00019968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           d="m 11,11.000579 v 2.996948 c 0,0.546712 0.323856,0.68909 0.723353,0.302512 l 5.116511,-4.9510523 c 0.194302,-0.1880184 0.198898,-0.5045411 0,-0.697039 L 11.723353,3.7000768 C 11.315983,3.305815 11,3.4488226 11,4.0024733 V 7 c -3.16e-4,-2.26e-5 -7,-0.4998081 -7,8 0.9999774,-4.016438 6.999729,-3.999422 7,-3.999421 z"
+           id="Combined-Shape"
+           style="fill:#3765a0;fill-opacity:1;stroke:#3765a0;stroke-width:1.00019968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   width="512"
+   height="512"
+   sodipodi:docname="debreate.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4535">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4531" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4533" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4491">
+      <stop
+         style="stop-color:#0a33a8;stop-opacity:1;"
+         offset="0"
+         id="stop4487" />
+      <stop
+         style="stop-color:#0a33a8;stop-opacity:0;"
+         offset="1"
+         id="stop4489" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4491"
+       id="linearGradient4495"
+       x1="275.86288"
+       y1="249.42322"
+       x2="287.85291"
+       y2="-124.40514"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4535"
+       id="linearGradient4537"
+       x1="192.41485"
+       y1="249.02078"
+       x2="345.64152"
+       y2="249.02078"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.65399865"
+     inkscape:cx="-47.867656"
+     inkscape:cy="352.19423"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:url(#linearGradient4495);fill-opacity:1"
+     d="M 228.90358,499.46532 C 129.11975,488.15204 44.147724,414.03007 19.706794,316.98081 14.202944,295.1263 12.284674,278.95158 12.345964,254.91454 12.447674,215.00096 20.364504,181.0816 37.707934,146.2515 62.462454,96.538016 106.31979,54.408242 156.72892,31.918787 232.84864,-2.0411341 321.80299,4.8342259 390.83751,50.013245 c 38.06374,24.910461 68.19859,58.849445 87.01376,97.998045 17.12951,35.6413 24.49331,68.12492 24.49331,108.04659 0,31.65368 -5.2123,60.45521 -15.9667,88.22755 -32.79644,84.69374 -111.53775,145.30611 -201.65412,155.22641 -12.77662,1.40649 -43.22835,1.38111 -55.82018,-0.0465 z"
+     id="path2984"
+     inkscape:connector-curvature="0" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot836"
+     style="font-style:normal;font-weight:normal;font-size:294.66665649px;line-height:1.25;font-family:'TeX Gyre Bonum';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'TeX Gyre Bonum';font-stretch:normal;font-variant:normal;stroke-width:8.8;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
+       id="flowRegion838"
+       style="font-size:294.66665649px;-inkscape-font-specification:'TeX Gyre Bonum';font-family:'TeX Gyre Bonum';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:8.8;stroke-miterlimit:4;stroke-dasharray:none"><rect
+         id="rect840"
+         width="394.49622"
+         height="501.53009"
+         x="122.32441"
+         y="53.283451"
+         style="font-size:294.66665649px;-inkscape-font-specification:'TeX Gyre Bonum';font-family:'TeX Gyre Bonum';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;stroke-width:8.8;stroke-miterlimit:4;stroke-dasharray:none" /></flowRegion><flowPara
+       id="flowPara842"
+       style="font-size:387.99997965px;-inkscape-font-specification:'TeX Gyre Bonum';font-family:'TeX Gyre Bonum';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:8.8;stroke-miterlimit:4;stroke-dasharray:none">D</flowPara></flowRoot></svg>

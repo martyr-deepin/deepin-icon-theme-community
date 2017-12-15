@@ -1,0 +1,13 @@
+Package: materialw-icon-theme
+Version: 0.1
+Maintainer: Alvaro Samudio <alvarosamudio1@gmail.com>
+Section: x11
+Source: Alvaro Samudio
+Homepage: github.com/alvarosamudio/materialw
+Architecture: all
+Priority: optional
+Replaces: materialw-icon-theme (>=0.1)
+Description: Deepin Icons Theme
+ Standards-Version:
+ *Material Design Inspired Product Icons
+ inspiration from the icons in Windows OS and Google's Material Design

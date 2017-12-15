@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 500 500"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   width="100%"
+   height="100%"
+   sodipodi:docname="dialog-apply.svg">
+  <metadata
+     id="metadata76">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     id="namedview74"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="380.25699"
+     inkscape:cy="197.25871"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+      <stop
+         stop-color="#8358b4"
+         stop-opacity="1"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#8d65ba"
+         stop-opacity="1"
+         id="stop9" />
+    </linearGradient>
+    <clipPath
+       id="clipPath-057129763">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g12">
+        <path
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           id="path14"
+           inkscape:connector-curvature="0"
+           style="fill:#1890d0" />
+      </g>
+    </clipPath>
+    <clipPath
+       id="clipPath-064426159">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g17">
+        <path
+           d="m -24,13 c 0,1.105 -0.672,2 -1.5,2 -0.828,0 -1.5,-0.895 -1.5,-2 0,-1.105 0.672,-2 1.5,-2 0.828,0 1.5,0.895 1.5,2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           id="path19"
+           inkscape:connector-curvature="0"
+           style="fill:#1890d0" />
+      </g>
+    </clipPath>
+    <linearGradient
+       id="linearGradient6575"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#59d2c6;stop-opacity:1;"
+         offset="0"
+         id="stop6573" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g33"
+     transform="translate(0,452)" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#faec6d;fill-opacity:1;stroke:#394050;stroke-width:24.4549427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path3766"
+     sodipodi:cx="-379.68039"
+     sodipodi:cy="218.11607"
+     sodipodi:rx="246.21698"
+     sodipodi:ry="196.74347"
+     d="m -133.46341,218.11607 a 246.21698,196.74347 0 1 1 -2e-5,-0.0767"
+     sodipodi:start="0"
+     sodipodi:end="6.2827953"
+     transform="matrix(0.86573191,0,0,1.0834306,578.70143,13.686371)"
+     sodipodi:open="true" />
+  <polyline
+     transform="matrix(7.7105423,0,0,7.7105423,3.09851,18.403083)"
+     style="fill:#59d2c6;fill-opacity:0;fill-rule:evenodd;stroke:#394050;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+     id="Path-5"
+     points="44 22 44 34 27 34" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#394050;stroke-width:7.71054411;fill-opacity:1"
+     d="m 123.23687,289.9377 c -6.73273,-5.17932 -6.65881,-13.63323 0,-18.75504 l 75.8561,-58.3501 c 6.73245,-5.1791 12.1901,-2.45226 12.1901,5.97215 V 342.316 c 0,8.47705 -5.532,11.09457 -12.1901,5.97253 z"
+     id="Triangle" />
+</svg>
